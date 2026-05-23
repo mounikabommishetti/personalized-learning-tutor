@@ -1,35 +1,71 @@
-# Personalized Learning Tutor Using Cognitive Memory
+# An Attention-Based Knowledge Tracing Framework for Personalized Learning System Using Cognitive Memory
 
 ## Overview
-This project is an AI-powered personalized learning system that adapts educational content based on student learning behavior and cognitive memory analysis.
+This project presents an AI-powered personalized learning tutor that uses cognitive memory and attention-based knowledge tracing to provide adaptive and continuous learning experiences.
+
+The system integrates Self-Attentive Knowledge Tracing (SAKT), cognitive memory mechanisms, and machine learning techniques to analyze learner behavior, track knowledge progression, and deliver personalized educational support.
 
 ## Features
 - Personalized learning recommendations
-- Cognitive memory tracking
-- AI-based tutoring assistance
-- Adaptive quizzes and assessments
-- Student performance analytics
+- Cognitive memory integration
+- Attention-based knowledge tracing
+- Adaptive assessments and quizzes
+- Student performance prediction
+- Real-time feedback generation
+- Learning analytics dashboard
+- Conversational tutoring support
 
 ## Technologies Used
 - Python
-- React JS
+- TensorFlow
 - Machine Learning
 - NLP
-- MongoDB
-- Google Cloud Platform
+- Streamlit
+- Pandas
+- NumPy
+- Scikit-learn
 
-## Workflow
-1. Student Login
-2. Learning Behavior Analysis
-3. Cognitive Memory Processing
-4. Personalized Content Recommendation
-5. Performance Tracking
+## System Modules
+1. Data Preprocessing Module
+2. Knowledge Tracing Module (SAKT)
+3. Cognitive Memory Module
+4. Adaptive Recommendation Engine
+5. Learning Analytics Module
+6. Streamlit Tutor Interface
+
+## Dataset
+The project uses the ASSISTments 2009 dataset for learner interaction analysis and knowledge tracing.
+
+## Project Workflow
+1. Data Collection and Preprocessing
+2. Sequence Generation
+3. SAKT Model Training
+4. Cognitive Memory Integration
+5. Adaptive Question Recommendation
+6. Learner Performance Analysis
+
+## Results
+- Improved personalized learning experience
+- Better learner engagement
+- Adaptive concept revision
+- Enhanced prediction accuracy
+- Real-time student performance tracking
 
 ## Future Improvements
-- Voice-based AI tutor
-- Real-time doubt clarification
-- Advanced learning analytics
+- Voice-enabled AI tutor
 - Cloud deployment
+- Multi-subject learning support
+- Real-time conversational AI
+- Mobile application integration
 
-## Author
-Mounika Bommishetti
+## Authors
+- Mounika Bommishetti
+- Gundla Sreeja
+- Nagavaram Sri Varshini
+
+## Institution
+Sreyas Institute of Engineering and Technology  
+Department of CSE (Data Science)
+
+## License
+This project is developed for academic and research purposes.
